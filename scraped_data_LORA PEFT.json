@@ -1,0 +1,302 @@
+[
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/developer_guides/lora"
+    },
+    {
+        "title": "GitHub - huggingface/peft: PEFT: State-of-the-art Parameter-Efficient ...",
+        "url": "https://github.com/huggingface/peft"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/package_reference/lora"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/conceptual_guides/lora"
+    },
+    {
+        "title": "Test the PEFT Model - Medium",
+        "url": "https://achimoraites.medium.com/lightweight-roberta-sequence-classification-fine-tuning-with-lora-using-the-hugging-face-peft-8dd9edf99d19"
+    },
+    {
+        "title": "peft/docs/source/developer_guides/lora.md at main - GitHub",
+        "url": "https://github.com/huggingface/peft/blob/main/docs/source/developer_guides/lora.md"
+    },
+    {
+        "title": "image_classification_peft_lora.ipynb - Colab - Google Colab",
+        "url": "https://colab.research.google.com/github/huggingface/peft/blob/main/examples/image_classification/image_classification_peft_lora.ipynb"
+    },
+    {
+        "title": "Fine-Tuning BERT for text classification with LoRA",
+        "url": "https://medium.com/@karkar.nizar/fine-tuning-bert-for-text-classification-with-lora-f12af7fa95e4"
+    },
+    {
+        "title": "Guide to fine-tuning LLMs using PEFT and LoRa techniques - Mercity",
+        "url": "https://www.mercity.ai/blog-post/fine-tuning-llms-using-peft-and-lora"
+    },
+    {
+        "title": "Efficient Fine-tuning with PEFT and LoRA - Niklas Heidloff",
+        "url": "https://heidloff.net/article/efficient-fine-tuning-lora/"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/developer_guides/lora"
+    },
+    {
+        "title": "GitHub - huggingface/peft: PEFT: State-of-the-art Parameter-Efficient ...",
+        "url": "https://github.com/huggingface/peft"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/package_reference/lora"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/conceptual_guides/lora"
+    },
+    {
+        "title": "Test the PEFT Model - Medium",
+        "url": "https://achimoraites.medium.com/lightweight-roberta-sequence-classification-fine-tuning-with-lora-using-the-hugging-face-peft-8dd9edf99d19"
+    },
+    {
+        "title": "peft/docs/source/developer_guides/lora.md at main - GitHub",
+        "url": "https://github.com/huggingface/peft/blob/main/docs/source/developer_guides/lora.md"
+    },
+    {
+        "title": "image_classification_peft_lora.ipynb - Colab - Google Colab",
+        "url": "https://colab.research.google.com/github/huggingface/peft/blob/main/examples/image_classification/image_classification_peft_lora.ipynb"
+    },
+    {
+        "title": "Fine-Tuning BERT for text classification with LoRA",
+        "url": "https://medium.com/@karkar.nizar/fine-tuning-bert-for-text-classification-with-lora-f12af7fa95e4"
+    },
+    {
+        "title": "Guide to fine-tuning LLMs using PEFT and LoRa techniques - Mercity",
+        "url": "https://www.mercity.ai/blog-post/fine-tuning-llms-using-peft-and-lora"
+    },
+    {
+        "title": "Efficient Fine-tuning with PEFT and LoRA - Niklas Heidloff",
+        "url": "https://heidloff.net/article/efficient-fine-tuning-lora/"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/en/package_reference/lora"
+    },
+    {
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+        "url": "https://github.com/microsoft/LoRA"
+    },
+    {
+        "title": "Efficient Model Fine-Tuning for LLMs: Understanding PEFT by ... - Medium",
+        "url": "https://medium.com/@shivansh.kaushik/efficient-model-fine-tuning-for-llms-understanding-peft-by-implementation-fc4d5e985389"
+    },
+    {
+        "title": "JL-er/RWKV-PEFT - GitHub",
+        "url": "https://github.com/JL-er/RWKV-PEFT"
+    },
+    {
+        "title": "'가성비' 좋은 Llm을 직접 만들어보자: Peft를 활용한 Llm 경량화 테크닉",
+        "url": "https://blog-ko.superb-ai.com/lightweighting-llm-with-peft/"
+    },
+    {
+        "title": "[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models - arXiv.org",
+        "url": "https://arxiv.org/abs/2106.09685"
+    },
+    {
+        "title": "Semantic segmentation using LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/task_guides/semantic_segmentation_lora"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/developer_guides/lora"
+    },
+    {
+        "title": "X-LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/package_reference/xlora"
+    },
+    {
+        "title": "Efficient Fine Tuning: Exploring PEFT, LoRA, and Other Techniques",
+        "url": "https://pub.towardsai.net/parameter-efficient-fine-tuning-peft-268dd8c99692"
+    },
+    {
+        "title": "blog/peft.md at main · huggingface/blog · GitHub",
+        "url": "https://github.com/huggingface/blog/blob/main/peft.md"
+    },
+    {
+        "title": "LoRA | PEFT - GitBook",
+        "url": "https://boinc-ai.gitbook.io/peft/conceptual-guides/lora"
+    },
+    {
+        "title": "LoRA - Google Colab",
+        "url": "https://colab.research.google.com/github/DanielWarfield1/MLWritingAndResearch/blob/main/LoRA.ipynb"
+    },
+    {
+        "title": "ReLoRA -- PEFT Pretraining - GitHub",
+        "url": "https://github.com/Guitaricet/relora"
+    },
+    {
+        "title": "ジョジョの奇妙な PEFT LoRA ファインチューニング - 究極生命体カーズとは? - - Qiita",
+        "url": "https://qiita.com/maskot1977/items/c9e96a5ed88017bcb96b"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/developer_guides/lora"
+    },
+    {
+        "title": "GitHub - huggingface/peft: PEFT: State-of-the-art Parameter-Efficient ...",
+        "url": "https://github.com/huggingface/peft"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/package_reference/lora"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/conceptual_guides/lora"
+    },
+    {
+        "title": "Test the PEFT Model - Medium",
+        "url": "https://achimoraites.medium.com/lightweight-roberta-sequence-classification-fine-tuning-with-lora-using-the-hugging-face-peft-8dd9edf99d19"
+    },
+    {
+        "title": "peft/docs/source/developer_guides/lora.md at main - GitHub",
+        "url": "https://github.com/huggingface/peft/blob/main/docs/source/developer_guides/lora.md"
+    },
+    {
+        "title": "image_classification_peft_lora.ipynb - Colab - Google Colab",
+        "url": "https://colab.research.google.com/github/huggingface/peft/blob/main/examples/image_classification/image_classification_peft_lora.ipynb"
+    },
+    {
+        "title": "Fine-Tuning BERT for text classification with LoRA",
+        "url": "https://medium.com/@karkar.nizar/fine-tuning-bert-for-text-classification-with-lora-f12af7fa95e4"
+    },
+    {
+        "title": "Guide to fine-tuning LLMs using PEFT and LoRa techniques - Mercity",
+        "url": "https://www.mercity.ai/blog-post/fine-tuning-llms-using-peft-and-lora"
+    },
+    {
+        "title": "Efficient Fine-tuning with PEFT and LoRA - Niklas Heidloff",
+        "url": "https://heidloff.net/article/efficient-fine-tuning-lora/"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/en/package_reference/lora"
+    },
+    {
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+        "url": "https://github.com/microsoft/LoRA"
+    },
+    {
+        "title": "Efficient Model Fine-Tuning for LLMs: Understanding PEFT by ... - Medium",
+        "url": "https://medium.com/@shivansh.kaushik/efficient-model-fine-tuning-for-llms-understanding-peft-by-implementation-fc4d5e985389"
+    },
+    {
+        "title": "JL-er/RWKV-PEFT - GitHub",
+        "url": "https://github.com/JL-er/RWKV-PEFT"
+    },
+    {
+        "title": "'가성비' 좋은 Llm을 직접 만들어보자: Peft를 활용한 Llm 경량화 테크닉",
+        "url": "https://blog-ko.superb-ai.com/lightweighting-llm-with-peft/"
+    },
+    {
+        "title": "[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models - arXiv.org",
+        "url": "https://arxiv.org/abs/2106.09685"
+    },
+    {
+        "title": "Semantic segmentation using LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/task_guides/semantic_segmentation_lora"
+    },
+    {
+        "title": "LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/developer_guides/lora"
+    },
+    {
+        "title": "X-LoRA - Hugging Face",
+        "url": "https://huggingface.co/docs/peft/main/en/package_reference/xlora"
+    },
+    {
+        "title": "Efficient Fine Tuning: Exploring PEFT, LoRA, and Other Techniques",
+        "url": "https://pub.towardsai.net/parameter-efficient-fine-tuning-peft-268dd8c99692"
+    },
+    {
+        "title": "blog/peft.md at main · huggingface/blog · GitHub",
+        "url": "https://github.com/huggingface/blog/blob/main/peft.md"
+    },
+    {
+        "title": "LoRA | PEFT - GitBook",
+        "url": "https://boinc-ai.gitbook.io/peft/conceptual-guides/lora"
+    },
+    {
+        "title": "LoRA - Google Colab",
+        "url": "https://colab.research.google.com/github/DanielWarfield1/MLWritingAndResearch/blob/main/LoRA.ipynb"
+    },
+    {
+        "title": "ReLoRA -- PEFT Pretraining - GitHub",
+        "url": "https://github.com/Guitaricet/relora"
+    },
+    {
+        "title": "ジョジョの奇妙な PEFT LoRA ファインチューニング - 究極生命体カーズとは? - - Qiita",
+        "url": "https://qiita.com/maskot1977/items/c9e96a5ed88017bcb96b"
+    },
+    {
+        "title": "PEFT-LoRA_Fine-tuning of Flan-T5 model - GitHub",
+        "url": "https://github.com/kennethugo/PEFT-LoRA_Fine-tuning"
+    },
+    {
+        "title": "Optimizing Language Model Fine-Tuning with PEFT, QLORA ... - Medium",
+        "url": "https://medium.com/@tejpal.abhyuday/optimizing-language-model-fine-tuning-with-peft-qlora-integration-and-training-time-reduction-04df39dca72b"
+    },
+    {
+        "title": "peft - PyPI",
+        "url": "https://pypi.org/project/peft/"
+    },
+    {
+        "title": "Outsider565/LoRA-GA - GitHub",
+        "url": "https://github.com/Outsider565/LoRA-GA"
+    },
+    {
+        "title": "Parameter-Efficient Fine-Tuning — NVIDIA NIM for Large Language Models ...",
+        "url": "https://docs.nvidia.com/nim/large-language-models/latest/peft.html"
+    },
+    {
+        "title": "Easily Train a Specialized LLM: PEFT, LoRA, QLoRA, LLaMA ... - Substack",
+        "url": "https://cameronrwolfe.substack.com/p/easily-train-a-specialized-llm-peft"
+    },
+    {
+        "title": "Optimizing FLAN T5: A Practical Guide to PEFT with LoRA & Soft ... - Medium",
+        "url": "https://medium.com/nerd-for-tech/optimizing-flan-t5-a-practical-guide-to-peft-with-lora-soft-prompts-3bab39e4a137"
+    },
+    {
+        "title": "Desmistificando o fine tuning de LLMs na prática: PEFT, LoRA ... - Medium",
+        "url": "https://medium.com/data-hackers/desmistificando-o-fine-tuning-de-llms-na-pr%C3%A1tica-peft-lora-qlora-e-hamb%C3%BArgueres-ca6e6008241f"
+    },
+    {
+        "title": "Improving LoRA in Privacy-preserving Federated Learning",
+        "url": "https://arxiv.org/abs/2403.12313"
+    },
+    {
+        "title": "Dive Into LoRA Adapters - towardsdatascience.com",
+        "url": "https://towardsdatascience.com/dive-into-lora-adapters-38f4da488ede"
+    },
+    {
+        "title": "Fine-tuning LLMs with PEFT and LoRA - YouTube",
+        "url": "https://www.youtube.com/watch?v=Us5ZFp16PaU"
+    },
+    {
+        "title": "Efficient Fine-Tuning with LoRA for LLMs | Databricks Blog",
+        "url": "https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms"
+    },
+    {
+        "title": "LoRAによる効率的なファインチューニング：大規模言語モデルにおける最適パラメータ選択のガイド - Qiita",
+        "url": "https://qiita.com/taka_yayoi/items/7f50d3ebbe4bebd6877c"
+    },
+    {
+        "title": "Examples of using peft with trl to finetune 8-bit models with Low Rank ...",
+        "url": "https://huggingface.co/docs/trl/lora_tuning_peft"
+    },
+    {
+        "title": "MoRA: High-Rank Updating for Parameter-Efﬁcient Fine-Tuning",
+        "url": "https://github.com/kongds/MoRA"
+    }
+]
